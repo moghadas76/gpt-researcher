@@ -35,7 +35,7 @@ The agent produces detailed, factual, and unbiased research reports with citatio
 - Selective web sources can introduce bias into research tasks.
 
 ## Demo
-https://github.com/user-attachments/assets/
+[https://github.com/user-attachments/assets/](https://github.com/user-attachments/assets/8ab39f10-1aab-4af9-9f68-54ca34484d9f)
 
 ## Architecture
 
@@ -56,7 +56,7 @@ Steps:
  - [How it Works](https://docs.gptr.dev/blog/building-gpt-researcher)
  - [How to Install](https://www.loom.com/share/04ebffb6ed2a4520a27c3e3addcdde20?sid=da1848e8-b1f1-42d1-93c3-5b0b9c3b24ea)
  - [Live Demo](https://www.loom.com/share/6a3385db4e8747a1913dd85a7834846f?sid=a740fd5b-2aa3-457e-8fb7-86976f59f9b8)
-[Screencast from 02-13-2025 06:00:44 PM.webm](https://github.com/user-attachments/assets/8ab39f10-1aab-4af9-9f68-54ca34484d9f)
+%[Screencast from 02-13-2025 06:00:44 PM.webm](https://github.com/user-attachments/assets/8ab39f10-1aab-4af9-9f68-54ca34484d9f)
 
 ## Features
 
