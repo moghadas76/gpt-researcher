@@ -13,6 +13,8 @@ langchain
 langchain_community
 langchain-openai
 langchain-ollama
+langchain-voyageai
+langchain-anthropic
 langgraph
 tiktoken
 gpt-researcher
